@@ -34,4 +34,8 @@ Sama seperti backend, install semua dependencies untuk frontend:
 Jalankan aplikasi React dengan perintah berikut:
 ```npm start```
 
+Login
+username : ```admin```
+password : ```password```
+
 Aplikasi frontend akan berjalan di `http://localhost:3000`.
